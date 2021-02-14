@@ -1,0 +1,49 @@
+body {
+    background-color:ivory;}
+h1 {
+color:black;
+font-size:70px; 
+font-family: fantasy;
+}
+h2 {
+    color:black; 
+    font-size:35px;
+    font-family: fantasy; }
+h3 {
+    color:black; 
+    font-size:35px; 
+    font-family:fantasy;}
+h4 {
+    color:black; 
+    font-size:35px;
+    font-family:fantasy;}
+li {
+    color:black; 
+    Font-size:17.5px;
+    font-family:fantasy;}
+p2 {
+    color:black; 
+    font-size:17.5px;
+    font-family:fantasy;}
+p3 {
+    color:black; 
+    font-size:17.5px;
+    font-family:fantasy;}
+p4 {
+    color:black; 
+    font-size:17.5px;
+    font-family: fantasy;}
+a href{
+    color:black; 
+    font-size:17.5px;
+    font-family:fantasy;}
+.center{
+    display:block; 
+    margin-left:auto; 
+    margin-right: auto; 
+    width: auto}
+image {
+    border-style:solid;
+    color:black;
+    height:350px;width:350px;
+    padding:1px}
